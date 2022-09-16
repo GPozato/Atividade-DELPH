@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/30 19:19:39.000.526,=C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/30 19:29:50.000.558,C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\etec\Desktop\functions_procedures\untFunctionProcedures.dfm</Transaction>
+    <Transaction>2022/08/30 19:29:50.000.558,C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\etec\Desktop\functions_procedures\untFunctionProcedures.pas</Transaction>
+    <Transaction>2022/08/30 19:30:07.000.429,C:\Users\etec\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\etec\Desktop\functions_procedures\prjFunctionProcedure.dproj</Transaction>
+    <Transaction>2022/09/15 20:33:53.432,C:\Users\etec\Desktop\atividade delph\1\untMedia.pas=C:\Users\etec\Desktop\delph\untFunctionProcedures.pas</Transaction>
+    <Transaction>2022/09/15 20:33:53.432,C:\Users\etec\Desktop\atividade delph\1\untMedia.dfm=C:\Users\etec\Desktop\delph\untFunctionProcedures.dfm</Transaction>
+    <Transaction>2022/09/15 20:35:10.896,C:\Users\etec\Desktop\atividade delph\1\prjMedia.dproj=C:\Users\etec\Desktop\delph\prjFunctionProcedure.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
